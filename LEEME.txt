@@ -1,0 +1,8 @@
+1. Copiá tu logo PNG en esta carpeta con el nombre exacto logo.png.
+2. Abrí index.html en tu navegador.
+3. El logo aparece centrado arriba de todo.
+
+Podés editar su ancho (150px) en .logo-superior img, al final de style.css.
+El logo no está incluido porque aún no fue adjuntado.
+La guía funciona sin conexión; los enlaces externos requieren Internet.
+Si Copiar código no funciona en archivos locales, seleccioná el código y usá Ctrl+C.
